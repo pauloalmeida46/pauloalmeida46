@@ -1,16 +1,17 @@
-<h1 align="center" style="color:white;">👋 Olá! Eu sou o Paulo Almeida</h1>
+<h1 align="center" style="color:white;">Olá! Eu sou o Paulo Almeida</h1>
 
 <p align="center" style="color:gray;">
-Desenvolvedor Full Stack | Python | TypeScript | Node.js | MongoDB | React<br>
-Apaixonado por Design | Corel Draw | Figma | Canva
+Desenvolvedor Full Stack | Python | Java | TypeScript | Node.js | MySQL | MongoDB | React | Tailwind CSS<br>
+Apaixonado por Design | Corel Draw | Figma | Canva<br>
+Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público - Alvo
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
-- 🎓 Estudante na FATEC Prof. Jessen Vidal
-- 💼 Desenvolvedor Full Stack com foco em soluções web
+- 🎓 Estudante da FATEC Prof. Jessen Vidal
+- 💼 Desenvolvedor Full Stack com foco em soluções web e design
 - 🎨 Entusiasta de design gráfico e interfaces intuitivas
 - 🌱 Aprendendo continuamente e buscando novos desafios
 
@@ -44,11 +45,11 @@ Apaixonado por Design | Corel Draw | Figma | Canva
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Minhas Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-almeida-3102452a7/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_xande_420/)
 
 ---
 
-<p align="center" style="color:gray;">Feito com ❤️ por Paulo Almeida</p>
+<p align="center" style="color:gray;">Feito por Paulo Almeida</p>
