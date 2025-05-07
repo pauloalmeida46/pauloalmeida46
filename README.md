@@ -8,8 +8,6 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
