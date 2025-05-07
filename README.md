@@ -35,6 +35,7 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 - 🎨 Entusiasta de design gráfico e interfaces intuitivas
 - 🌱 Aprendendo continuamente e buscando novos desafios
 
+<br><br>
 
 <p align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
