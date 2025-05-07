@@ -7,9 +7,7 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 </p>
 
 ---
-<div align="center">
-### Sobre mim
-</div>
+<h2 align="center">Sobre mim</h2>
 
 - 🎓 Estudante da FATEC Prof. Jessen Vidal
 - 💼 Desenvolvedor Full Stack com foco em soluções web e design
@@ -18,8 +16,9 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -28,10 +27,11 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-47C5FB?style=flat-square&logo=coreldraw&logoColor=black)
+</div>
 
 ---
 
-### 📌 Projetos em Destaque
+<h2 align="center">📌 Projetos em Destaque</h2>
 
 - [Portfolio-Digital](https://github.com/pauloalmeida46/Portfolio-Digital): Meu portfólio digital pessoal.
 - [nectopoint-front](https://github.com/Equipe-Skyfall/nectopoint-front): Front-end do projeto Nectopoint.
@@ -40,13 +40,13 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 ---
 
-### 📈 Estatísticas do GitHub
+<h2 align="center">📈 Estatísticas do GitHub</h2>
 
 ![Estatísticas do GitHub de Paulo](https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true)
 
 ---
 
-### 🌐 Minhas Redes Sociais
+<h2 align="center">🌐 Minhas Redes Sociais</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-almeida-3102452a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_xande_420/)
