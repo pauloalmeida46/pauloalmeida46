@@ -1,12 +1,12 @@
 <h1 align="center" style="color:white;">Olá! Eu sou o Paulo Almeida</h1>
 
+---
+
 <p align="center" style="color:gray;">
 Desenvolvedor Full Stack | Python | Java | TypeScript | Node.js | MySQL | MongoDB | React | Tailwind CSS<br>
 Apaixonado por Design | Corel Draw | Figma | Canva<br>
 Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público - Alvo
 </p>
-
----
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 
-![Estatísticas do GitHub de Paulo](https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true)
+![Estatísticas do GitHub de Paulo](https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=midnight-purple_title=true)
 
 ---
 
