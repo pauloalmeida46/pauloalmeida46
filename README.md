@@ -7,14 +7,6 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 </p>
 
 ---
-<h2 align="center">Sobre mim</h2>
-
-- 🎓 Estudante da FATEC Prof. Jessen Vidal
-- 💼 Desenvolvedor Full Stack com foco em soluções web e design
-- 🎨 Entusiasta de design gráfico e interfaces intuitivas
-- 🌱 Aprendendo continuamente e buscando novos desafios
-
----
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -31,6 +23,14 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 </div>
 
+---
+
+<h2 align="center">Sobre mim</h2>
+
+- 🎓 Estudante da FATEC Prof. Jessen Vidal
+- 💼 Desenvolvedor Full Stack com foco em soluções web e design
+- 🎨 Entusiasta de design gráfico e interfaces intuitivas
+- 🌱 Aprendendo continuamente e buscando novos desafios
 
 ---
 
