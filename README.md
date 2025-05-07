@@ -7,8 +7,9 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 </p>
 
 ---
-
+<div align="center">
 ### Sobre mim
+</div>
 
 - 🎓 Estudante da FATEC Prof. Jessen Vidal
 - 💼 Desenvolvedor Full Stack com foco em soluções web e design
