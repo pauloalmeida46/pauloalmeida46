@@ -35,14 +35,6 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 - 🎨 Entusiasta de design gráfico e interfaces intuitivas
 - 🌱 Aprendendo continuamente e buscando novos desafios
 
----
-
-<h2 align="center">📌 Projetos em Destaque</h2>
-
-- [Portfolio-Digital](https://github.com/pauloalmeida46/Portfolio-Digital): Meu portfólio digital pessoal.
-- [nectopoint-front](https://github.com/Equipe-Skyfall/nectopoint-front): Front-end do projeto Nectopoint.
-- [API_2Semestre](https://github.com/EquipeSkyfall/API_2Semestre): API desenvolvida para o 2º semestre de 2024 na FATEC.
-- [Projeto-Smart-Farming](https://github.com/CyberScrums/Projeto-Smart-Farming): Projeto de agricultura inteligente desenvolvido na FATEC.
 
 <p align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
