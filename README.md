@@ -52,11 +52,11 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 ---
 
-<h2 align="center">🌐 Minhas Redes Sociais</h2>
+<p align="center" style="color:gray;">Feito por Paulo Almeida</p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-almeida-3102452a7/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_xande_420/)
 
----
-
-<p align="center" style="color:gray;">Feito por Paulo Almeida</p>
+</div>
