@@ -16,9 +16,10 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 
 ---
 
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -27,7 +28,9 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Corel Draw](https://img.shields.io/badge/Corel%20Draw-47C5FB?style=flat-square&logo=coreldraw&logoColor=black)
+
 </div>
+
 
 ---
 
