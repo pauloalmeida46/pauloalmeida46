@@ -44,13 +44,9 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 - [API_2Semestre](https://github.com/EquipeSkyfall/API_2Semestre): API desenvolvida para o 2º semestre de 2024 na FATEC.
 - [Projeto-Smart-Farming](https://github.com/CyberScrums/Projeto-Smart-Farming): Projeto de agricultura inteligente desenvolvido na FATEC.
 
----
-
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-
 <p align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeida46&layout=compact&theme=dark&hide_title=true" alt="Linguagens mais usadas"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeida46&layout=compact&theme=dark&hide_title=true" alt="Linguagens mais usadas"/>
 </p>
 
 
