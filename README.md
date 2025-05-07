@@ -49,8 +49,8 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 <h2 align="center">📈 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeida46&layout=compact&theme=dark&hide_title=true" alt="Linguagens mais usadas"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloalmeida46&layout=compact&theme=dark&hide_title=true" alt="Linguagens mais usadas"/>
 </p>
 
 
