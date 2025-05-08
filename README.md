@@ -41,8 +41,6 @@ Estudante da FATEC Prof. Jessen Vidal | Desenvolvedor Full Stack com foco em sol
 
 ---
 
-<p align="center" style="color:gray;">Feito por Paulo Almeida</p>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-almeida-3102452a7/)
