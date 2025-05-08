@@ -23,19 +23,15 @@ Conhecimentos sobre vendas | Estratégias de Marketing | Filtragem de Público -
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+<br>
+
+<p>
+Estudante da FATEC Prof. Jessen Vidal | Desenvolvedor Full Stack com foco em soluções web e design | Entusiasta de design gráfico e interfaces intuitivas | Aprendendo continuamente e buscando novos desafios
+</p>
 
 </div>
 
----
-
-<h2 align="center">Sobre mim</h2>
-
-- 🎓 Estudante da FATEC Prof. Jessen Vidal
-- 💼 Desenvolvedor Full Stack com foco em soluções web e design
-- 🎨 Entusiasta de design gráfico e interfaces intuitivas
-- 🌱 Aprendendo continuamente e buscando novos desafios
-
-<br><br>
+<br>
 
 <p align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pauloalmeida46&show_icons=true&theme=dark&hide_title=true" alt="Estatísticas do GitHub de Paulo"/>
